@@ -1,0 +1,28 @@
+body{
+    background-image: url(d7f6bec30e4d48a44eacef2a106e83ff.webp);
+    background-size: 1300px;
+    background-position: right 24px;
+}
+#h1-1{
+    color: skyblue;
+}
+#h1-1 span{
+    color: red;
+}
+#text-1{
+color: skyblue;
+}
+.op{
+    background-color: teal;
+    color: red;
+}
+#pop {
+ border-radius: 4px;
+ transition: ease 12ms;
+}
+#pop:hover{
+    cursor: crosshair;
+}
+label{
+   color: skyblue;
+}
